@@ -2,7 +2,7 @@
   "name": "delicious",
   "version": "1.0.3",
   "scripts": {
-    "dev": "DB=deldb LEVEL=silly PORT=3334 nodemon dst/server.js"
+    "dev": "DB=dev-delicious LEVEL=silly PORT=3333 nodemon dst/server.js"
   },
   "author": "jz&jf",
   "license": "MIT",
